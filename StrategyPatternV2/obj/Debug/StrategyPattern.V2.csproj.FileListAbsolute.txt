@@ -1,0 +1,11 @@
+D:\Webcast\StrategyPattern\StrategyPatternV2\bin\Debug\StrategyPattern.V2.dll
+D:\Webcast\StrategyPattern\StrategyPatternV2\bin\Debug\StrategyPattern.V2.pdb
+D:\Webcast\StrategyPattern\StrategyPatternV2\bin\Debug\Castle.Core.dll
+D:\Webcast\StrategyPattern\StrategyPatternV2\bin\Debug\Castle.Windsor.dll
+D:\Webcast\StrategyPattern\StrategyPatternV2\bin\Debug\StrategyPattern.Contracts.dll
+D:\Webcast\StrategyPattern\StrategyPatternV2\bin\Debug\StrategyPattern.Contracts.pdb
+D:\Webcast\StrategyPattern\StrategyPatternV2\bin\Debug\Castle.Core.xml
+D:\Webcast\StrategyPattern\StrategyPatternV2\bin\Debug\Castle.Windsor.xml
+D:\Webcast\StrategyPattern\StrategyPatternV2\obj\Debug\ResolveAssemblyReference.cache
+D:\Webcast\StrategyPattern\StrategyPatternV2\obj\Debug\StrategyPattern.V2.dll
+D:\Webcast\StrategyPattern\StrategyPatternV2\obj\Debug\StrategyPattern.V2.pdb

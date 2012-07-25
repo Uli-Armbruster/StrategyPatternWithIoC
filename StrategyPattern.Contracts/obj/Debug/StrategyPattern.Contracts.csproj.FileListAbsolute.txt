@@ -1,0 +1,5 @@
+D:\Webcast\StrategyPattern\StrategyPattern.Contracts\bin\Debug\StrategyPattern.Contracts.dll
+D:\Webcast\StrategyPattern\StrategyPattern.Contracts\bin\Debug\StrategyPattern.Contracts.pdb
+D:\Webcast\StrategyPattern\StrategyPattern.Contracts\obj\Debug\ResolveAssemblyReference.cache
+D:\Webcast\StrategyPattern\StrategyPattern.Contracts\obj\Debug\StrategyPattern.Contracts.dll
+D:\Webcast\StrategyPattern\StrategyPattern.Contracts\obj\Debug\StrategyPattern.Contracts.pdb

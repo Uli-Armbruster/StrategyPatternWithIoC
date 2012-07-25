@@ -1,0 +1,15 @@
+D:\Webcast\StrategyPattern\StrategyPattern.App\bin\Debug\StrategyPattern.App.exe
+D:\Webcast\StrategyPattern\StrategyPattern.App\bin\Debug\StrategyPattern.App.pdb
+D:\Webcast\StrategyPattern\StrategyPattern.App\bin\Debug\Castle.Core.dll
+D:\Webcast\StrategyPattern\StrategyPattern.App\bin\Debug\Castle.Windsor.dll
+D:\Webcast\StrategyPattern\StrategyPattern.App\bin\Debug\StrategyPattern.Contracts.dll
+D:\Webcast\StrategyPattern\StrategyPattern.App\bin\Debug\StrategyPattern.V1.dll
+D:\Webcast\StrategyPattern\StrategyPattern.App\bin\Debug\StrategyPattern.V3.dll
+D:\Webcast\StrategyPattern\StrategyPattern.App\bin\Debug\StrategyPattern.Contracts.pdb
+D:\Webcast\StrategyPattern\StrategyPattern.App\bin\Debug\StrategyPattern.V1.pdb
+D:\Webcast\StrategyPattern\StrategyPattern.App\bin\Debug\StrategyPattern.V3.pdb
+D:\Webcast\StrategyPattern\StrategyPattern.App\bin\Debug\Castle.Core.xml
+D:\Webcast\StrategyPattern\StrategyPattern.App\bin\Debug\Castle.Windsor.xml
+D:\Webcast\StrategyPattern\StrategyPattern.App\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Webcast\StrategyPattern\StrategyPattern.App\obj\x86\Debug\StrategyPattern.App.exe
+D:\Webcast\StrategyPattern\StrategyPattern.App\obj\x86\Debug\StrategyPattern.App.pdb
